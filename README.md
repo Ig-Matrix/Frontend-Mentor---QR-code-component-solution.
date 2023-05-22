@@ -23,8 +23,8 @@ I'm excited to take on my first challenge from Frontend Mentors, where I encount
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository Link](https://github.com/Ig-Matrix/Frontend-Mentor---QR-code-component-solution.)
+- Live Site URL: [Link to live site](https://ig-matrix.github.io/Frontend-Mentor---QR-code-component-solution./)
 
 ## My process
 To kickstart the development process, I began by creating the HTML markup for the QR code component. To keep things organized, I wrapped all the contents within a container div, providing a designated space for the component to reside.
